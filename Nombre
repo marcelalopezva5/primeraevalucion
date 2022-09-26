@@ -1,0 +1,5 @@
+# Programa de Iniciación
+# Me pregunta el nombre y me responde
+print ("Como te llamas?")
+nombre=("Marcela")
+print ("Hola"+ nombre +"encantado de conocerte")
